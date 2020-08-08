@@ -4,7 +4,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* min-height: 100vh; */
+    min-height: 100vh;
 
 }
 .main{
@@ -62,14 +62,14 @@ td:hover{
 span{
     text-align: center;
     cursor: pointer;
-    padding-left: 5px;
+    /* padding-left: 5px; */
     
 }
 td{
     background-color: #808080;
     color: #ffffff;
     border-radius: 20px;
-    padding-left: 50px;
+    padding-left: 10px;
     border: 1px solid #000000;
     padding-top:10px;
     padding-bottom: 10px;
